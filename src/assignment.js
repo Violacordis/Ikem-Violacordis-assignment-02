@@ -15,15 +15,15 @@ const assignment = {};
  */
 function sumOfNumbers(arrayOfNumbers) {
   // declaring a variable sum and assigning it to 0
-  let sum = 0;
-  for(let i = 0; i < arrayOfNumbers.length; i++) {
+  // let sum = 0;
+  // for(let i = 0; i < arrayOfNumbers.length; i++) {
     // console.log(i)
-    sum += arrayOfNumbers[i];
+    // sum += arrayOfNumbers[i];
     // console.log(sum)
-  }
-  return sum;
+  // }
+  // return sum;
 }
-assignment.sumOfNumbers = sumOfNumbers;
+// assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
